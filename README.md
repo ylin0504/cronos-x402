@@ -3,11 +3,11 @@
 The Cronos x402 Paytech Hackathon invites builders from around the world to create the next generation of agentic, on-chain and AI-powered applications. This hackathon focuses on the emerging frontier of AI agents, x402-style programmatic payments and AI-native on-chain infrastructure enabled by Cronos EVM and the Crypto.com ecosystem.
 Whether you're building agentic payment flows, AI-enhanced wallets, Crypto.com-integrated settlement tools, RWA rails, data virtualization layers, or new developer tooling for x402 agents, this is your chance to shape the future of AI-powered payments on-chain.
 
-## Apply for the hackathon: [https://dorahacks.io/hackathon/cronos-x402/detail](https://dorahacks.io/hackathon/cronos-x402/detail)
+### Apply for the hackathon: [https://dorahacks.io/hackathon/cronos-x402/detail](https://dorahacks.io/hackathon/cronos-x402/detail)
 
 # Prizes
 
-## 🎁 Total Prize Pool Value: $42,000
+### 🎁 Total Prize Pool Value: $42,000
 
 - **Main Track (x402 Applications Broad Use Cases)**:
   - **1st: Cronos Ignition Builder Residency Award: $24,000**
@@ -48,7 +48,7 @@ Projects may submit to multiple tracks if they meet the criteria.
 
 # Tracks
 
-## **1. Main Track - x402 Applications (Broad Use Cases)**
+### **1. Main Track - x402 Applications (Broad Use Cases)**
 
 The primary track for builders exploring **AI agents using x402** for novel, intelligent or automated on-chain actions. **Examples**:
 - agent-triggered payments
@@ -58,7 +58,7 @@ The primary track for builders exploring **AI agents using x402** for novel, int
 - RWA settlement and lifecycle automation
 - consumer apps with embedded x402 flows
 
-## **2. x402 Agentic Finance/Payment Track — Advanced Programmatic Settlement & Workflows**
+### **2. x402 Agentic Finance/Payment Track — Advanced Programmatic Settlement & Workflows**
 
 A specialised track for **financially complex, multi-step x402 automation**. **Examples:**
 
@@ -68,19 +68,19 @@ A specialised track for **financially complex, multi-step x402 automation**. *
 - institutional-grade workflow automation
 - recurring or conditional instruction sets
 
-## **3. [Crypto.com](http://crypto.com/) X Cronos Ecosystem Integrations**
+### **3. [Crypto.com](http://crypto.com/) X Cronos Ecosystem Integrations**
 
 For teams building solutions that **connect Crypto.com’s ecosystem with Cronos**, especially when paired with x402-driven settlement rails. **Examples:**
 
 - **Crypto.com on-chain wallet integrations** – connecting user balances, payment flows or settlement logic to Cronos via x402.
-- **Crypto.com Market Data MCP Server integrations [**https://mcp.crypto.com/docs]  Connect real-time cryptocurrency market data directly to your AI assistant. Get instant access to prices, market trends and trading information in ChatGPT and Claude.
-- [**Crypto.com](http://crypto.com/) AI agent SDK integrations on Cronos EVM** - embedding AI-driven automation directly into dApps, services, or payment surfaces built on Cronos.
+- **Crypto.com Market Data MCP Server integrations** [[https://mcp.crypto.com/docs]](https://mcp.crypto.com/docs)  Connect real-time cryptocurrency market data directly to your AI assistant. Get instant access to prices, market trends and trading information in ChatGPT and Claude.
+- [**Crypto.com**](http://crypto.com/) **AI agent SDK integrations on Cronos EVM** - embedding AI-driven automation directly into dApps, services, or payment surfaces built on Cronos.
 - **Cronos dApp integrations**, such as:
-    - [**Moonlander](https://moonlander.trade/) (Perpetuals Trading)** – automated trade execution, agent-triggered strategies and x402-powered settlement workflows.
-    - [**Delphi](https://delphi.trade/) (Prediction Markets)** – AI-assisted market participation, automated prediction execution and agentic settlement routing.
-    - [**VVS Finance](https://vvs.finance/) (DEX)** – intelligent swap routing, automated liquidity actions, or agent-driven trade workflows using x402.
+    - [**Moonlander**](https://moonlander.trade/) **(Perpetuals Trading)** – automated trade execution, agent-triggered strategies and x402-powered settlement workflows.
+    - [**Delphi**](https://delphi.trade/) **(Prediction Markets)** – AI-assisted market participation, automated prediction execution and agentic settlement routing.
+    - [**VVS Finance**](https://vvs.finance/) **(DEX)** – intelligent swap routing, automated liquidity actions, or agent-driven trade workflows using x402.
 
-## **4. Dev Tooling & Data Virtualization Track**
+### **4. Dev Tooling & Data Virtualization Track**
 
 Infrastructure enabling **AI agents and/or x402 applications** to be built, tested and scaled. **Examples:**
 
