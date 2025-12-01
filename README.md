@@ -1,9 +1,11 @@
 # Cronos x402 Paytech Hackathon
 
+#### 👉 Apply for the hackathon: [https://dorahacks.io/hackathon/cronos-x402/detail](https://dorahacks.io/hackathon/cronos-x402/detail)
+
+<img src="https://cdn.dorahacks.io/static/files/19ad92484d0db150e00056946b391c19.jpg" alt="demo" style="border-radius:12px; width:100%; max-width:800px;">
+
 The Cronos x402 Paytech Hackathon invites builders from around the world to create the next generation of agentic, on-chain and AI-powered applications. This hackathon focuses on the emerging frontier of AI agents, x402-style programmatic payments and AI-native on-chain infrastructure enabled by Cronos EVM and the Crypto.com ecosystem.
 Whether you're building agentic payment flows, AI-enhanced wallets, Crypto.com-integrated settlement tools, RWA rails, data virtualization layers, or new developer tooling for x402 agents, this is your chance to shape the future of AI-powered payments on-chain.
-
-### Apply for the hackathon: [https://dorahacks.io/hackathon/cronos-x402/detail](https://dorahacks.io/hackathon/cronos-x402/detail)
 
 # Prizes
 
